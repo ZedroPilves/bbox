@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+  }
+.container{
+  display: flexbox;
+  justify-content:space-around;
+  padding-left: 4em;
+}
+  .capa {
+    width: 19em; 
+    height: 25em; 
+    transition: width 0.3s ease-in-out;
+    padding: 1em;
+  }
